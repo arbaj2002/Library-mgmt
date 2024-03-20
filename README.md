@@ -13,6 +13,10 @@ It is main table where we are storing students issued book details.
 ![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/f01e1f09-fa8e-476a-a87c-d9e5af97e6ba)
 Book table which stores information related to book
 
+![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/3f91d722-6a7b-4980-9b01-55a8e9554075)
+ Issued books table which shows which book is issued by which student
+
+
  <h2>User View</h2>
 
 ![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/e9d59da2-0382-4b22-a3d6-830a9185d203)
@@ -29,6 +33,9 @@ User can ask admin to issue book which is not already issued.
 
  ![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/c27a9187-af48-4a18-ac20-9ba61e1619f0)
  Issued books by user
+
+ 
+ <h2>Admin View</h2>
 
  ![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/0289d28f-1f93-4c3f-8270-0e40818553e4)
  Admin Dashboard panel which shows details such as registered users and book details
