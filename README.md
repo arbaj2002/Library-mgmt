@@ -1,6 +1,14 @@
 # Library-mgmt
 A library management system (LMS) is a software application or platform designed to help libraries efficiently manage their resources, issue book by students and admin is authorized to accept issue. If the user fails to return it on time he has to pay a fine. Admin is responsible to manage books in library like perform crud operations such as adding a book, updating, deleting book details.He also has access to students data.
 
+Live link :- http://vikas-e-library.c1.is/index.php
+
+Create user with sign up.
+
+*admin Credentials*
+username:- admin
+password:- Test@123
+
 <h2>Database Schemas</h2>
 
 ![image](https://github.com/arbaj2002/Library-mgmt/assets/57356090/3c6b6cfb-9671-4768-9a06-c3645feb72fc)
